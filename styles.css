@@ -1,0 +1,33 @@
+
+.fm1 {
+  width: 400px;
+  height: 400px;
+}
+.header {
+  text-align: center;
+
+}
+.img2 {
+  width: 350px;
+  height: 300px;
+  padding-bottom: 2%;
+}
+.ft1 {
+  padding-left: 1.2%;
+  padding-right: 1%;
+  color: green;
+}
+
+
+.ft2 {
+  padding-left: 1.2%;
+  padding-right: 1%;
+  color: red;
+}
+
+
+.ft3 {
+  padding-left: 1.2%;
+  padding-right: 1%;
+  color: blue;
+}
